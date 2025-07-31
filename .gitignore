@@ -1,0 +1,4 @@
+venv/
+logs/
+mlruns/
+Project1_HotelReservationPrediction.egg-info/
